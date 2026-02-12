@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Header](https://github.com/BehGit/BehGit/blob/main/assets/Kot.png)]
+![Header](https://github.com/BehGit/BehGit/blob/main/assets/Kot.png)
 
 My Profile
